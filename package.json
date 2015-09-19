@@ -1,0 +1,19 @@
+{
+  "name": "treant-js",
+  "version": "1.0.0",
+  "description": "Treant-js is an SVG based JS library for drawing tree diagrams. It relies on Raphael and jQuery for handling SVG and animations",
+  "main": "Treant.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Laboratory/treant-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Laboratory/treant-js/issues"
+  },
+  "homepage": "https://github.com/Laboratory/treant-js"
+}
